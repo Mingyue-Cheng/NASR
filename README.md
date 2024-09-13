@@ -1,10 +1,26 @@
-### NASR
+<div align="center">
+  <!-- <h1><b> Time-LLM </b></h1> -->
+  <!-- <h2><b> Time-LLM </b></h2> -->
+  <h2><b> (WWW'22) Towards Automatic Discovering of Deep Hybrid Network Architecture for Sequential Recommendation </b></h2>
+</div>
 
 ---
+>
+> 🙋 Please let us know if you find out a mistake or have any suggestions!
+> 
+> 🌟 If you find this resource helpful, please consider to star this repository and cite our research:
 
-Pytorch implementation for WWW'22 paper:
+```
+@inproceedings{cheng2022towards,
+  title={Towards automatic discovering of deep hybrid network architecture for sequential recommendation},
+  author={Cheng, Mingyue and Liu, Zhiding and Liu, Qi and Ge, Shenyang and Chen, Enhong},
+  booktitle={Proceedings of the ACM Web Conference 2022},
+  pages={1923--1932},
+  year={2022}
+}
 
-> Towards Automatic Discovering of Deep Hybrid Network Architecture for Sequential Recommendation
+```
+
 
 ### Introduction
 
@@ -51,6 +67,14 @@ We performed our NASR on two datasets of Movielens and LastFM, and the result te
 ### Citation
 
 ---
+```
+@inproceedings{cheng2022towards,
+  title={Towards automatic discovering of deep hybrid network architecture for sequential recommendation},
+  author={Cheng, Mingyue and Liu, Zhiding and Liu, Qi and Ge, Shenyang and Chen, Enhong},
+  booktitle={Proceedings of the ACM Web Conference 2022},
+  pages={1923--1932},
+  year={2022}
+}
 
-TBD
+```
 
